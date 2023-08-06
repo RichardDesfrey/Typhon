@@ -1,0 +1,1 @@
+Rc.exe /v rsrc.rc
